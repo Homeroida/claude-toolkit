@@ -15,3 +15,4 @@ My collection of skills, agents, and tools for Claude Code.
 | Resource | Description |
 | --- | --- |
 | [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Collection of DESIGN.md files inspired by popular brand design systems for coding agents |
+| [buildwithclaude](https://github.com/davepoon/buildwithclaude) | Hub for Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections |

@@ -17,3 +17,4 @@ My collection of skills, agents, and tools for Claude Code.
 | [awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | Collection of DESIGN.md files inspired by popular brand design systems for coding agents |
 | [buildwithclaude](https://github.com/davepoon/buildwithclaude) | Hub for Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections |
 | [impeccable](https://github.com/pbakaus/impeccable) | Design language that makes your AI harness better at design |
+| [open-design](https://github.com/nexu-io/open-design) | Local-first, open-source alternative to Claude Design — 19 Skills, 71 brand design systems, generates web/desktop/mobile prototypes, slides, images, videos with sandboxed preview and HTML/PDF/PPTX/MP4 export |
